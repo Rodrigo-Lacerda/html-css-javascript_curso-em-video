@@ -1,0 +1,14 @@
+ETRUTURAS DE REPETIÇÕE =======
+while (var true) {
+    bloco
+}
+
+# DoWhile
+do {
+    bloco
+} while (var true)
+
+# For
+for (var c = 0; c <= 10; c++){
+    bloco
+}
